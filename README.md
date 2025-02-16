@@ -1,3 +1,7 @@
+# [! important] The AgentNetworkProtocol (ANP) repository has been moved to a new address: 
+
+[https://github.com/agent-network-protocol/AgentNetworkProtocol](https://github.com/agent-network-protocol/AgentNetworkProtocol)
+
 <div align="center">
   
 [English](README.md) | [中文](README.cn.md)
